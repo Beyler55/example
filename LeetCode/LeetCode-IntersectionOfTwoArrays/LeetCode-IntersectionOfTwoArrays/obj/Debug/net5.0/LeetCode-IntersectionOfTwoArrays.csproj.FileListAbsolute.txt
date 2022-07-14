@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\bin\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.exe
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\bin\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.deps.json
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\bin\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.runtimeconfig.json
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\bin\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.runtimeconfig.dev.json
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\bin\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.dll
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\bin\Debug\net5.0\ref\LeetCode-IntersectionOfTwoArrays.dll
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\bin\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.pdb
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\obj\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\obj\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\obj\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\obj\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.AssemblyInfo.cs
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\obj\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\obj\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.dll
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\obj\Debug\net5.0\ref\LeetCode-IntersectionOfTwoArrays.dll
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\obj\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.pdb
+C:\Users\user\source\repos\LeetCode-IntersectionOfTwoArrays\LeetCode-IntersectionOfTwoArrays\obj\Debug\net5.0\LeetCode-IntersectionOfTwoArrays.genruntimeconfig.cache

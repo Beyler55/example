@@ -1,0 +1,11 @@
+table,td{
+    border: 1px solid black;
+}
+table{
+    height: 200px;
+    width: 50%;
+}
+table thead{
+    text-align: center;
+    font-weight: bold;
+}
